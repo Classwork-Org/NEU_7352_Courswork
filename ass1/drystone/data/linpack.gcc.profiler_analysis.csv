@@ -1,0 +1,18 @@
+Source,Compiler
+linpack,gcc
+ 
+Optimization level,0
+name,%,cumulative_time,self_time,calls,self_calls,total_self_calls
+ 
+Optimization level,1
+name,%,cumulative_time,self_time,calls,self_calls,total_self_calls
+ 
+Optimization level,2
+name,%,cumulative_time,self_time,calls,self_calls,total_self_calls
+ 
+Optimization level,3
+name,%,cumulative_time,self_time,calls,self_calls,total_self_calls
+frame_dummy,92.83818181818184,1.249090909090909,1.249090909090909,1127248.0,1.1090909090909093,1.1090909090909093
+dgefa,3.777272727272728,1.3127272727272727,0.05090909090909091,0.0,0.0,0.0
+dgesl,0.06818181818181818,0.12181818181818183,0.0009090909090909091,0.0,0.0,0.0
+r8mat_gen,3.444545454545455,1.3381818181818181,0.046363636363636364,0.0,0.0,0.0

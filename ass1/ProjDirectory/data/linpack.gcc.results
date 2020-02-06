@@ -1,0 +1,264 @@
+ITERATION 0: Running linpack.gcc.opt3.bin, iteration num 0, loop count 
+18 September 2019 04:13:20 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1500
+  Leading matrix dimension LDA = 1501
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+       16.032024        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   1.310000   0.000000   1.310000  -464.741626  -0.004303  23.392857
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 04:13:21 AM
+ITERATION 1: Running linpack.gcc.opt3.bin, iteration num 1, loop count 
+18 September 2019 04:13:21 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1500
+  Leading matrix dimension LDA = 1501
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+       16.032024        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   1.300000   0.000000   1.300000  -468.316562  -0.004271  23.214286
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 04:13:23 AM
+ITERATION 2: Running linpack.gcc.opt3.bin, iteration num 2, loop count 
+18 September 2019 04:13:23 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1500
+  Leading matrix dimension LDA = 1501
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+       16.032024        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   1.320000   0.000000   1.320000  -461.220857  -0.004336  23.571429
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 04:13:24 AM
+ITERATION 3: Running linpack.gcc.opt3.bin, iteration num 3, loop count 
+18 September 2019 04:13:24 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1500
+  Leading matrix dimension LDA = 1501
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+       16.032024        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   1.310000   0.000000   1.310000  -464.741626  -0.004303  23.392857
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 04:13:25 AM
+ITERATION 4: Running linpack.gcc.opt3.bin, iteration num 4, loop count 
+18 September 2019 04:13:25 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1500
+  Leading matrix dimension LDA = 1501
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+       16.032024        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   1.310000   0.000000   1.310000  -464.741626  -0.004303  23.392857
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 04:13:27 AM
+ITERATION 5: Running linpack.gcc.opt3.bin, iteration num 5, loop count 
+18 September 2019 04:13:27 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1500
+  Leading matrix dimension LDA = 1501
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+       16.032024        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   1.320000   0.000000   1.320000  -461.220857  -0.004336  23.571429
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 04:13:28 AM
+ITERATION 6: Running linpack.gcc.opt3.bin, iteration num 6, loop count 
+18 September 2019 04:13:28 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1500
+  Leading matrix dimension LDA = 1501
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+       16.032024        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   1.320000   0.000000   1.320000  -461.220857  -0.004336  23.571429
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 04:13:30 AM
+ITERATION 7: Running linpack.gcc.opt3.bin, iteration num 7, loop count 
+18 September 2019 04:13:30 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1500
+  Leading matrix dimension LDA = 1501
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+       16.032024        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   1.310000   0.000000   1.310000  -464.741626  -0.004303  23.392857
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 04:13:31 AM
+ITERATION 8: Running linpack.gcc.opt3.bin, iteration num 8, loop count 
+18 September 2019 04:13:31 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1500
+  Leading matrix dimension LDA = 1501
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+       16.032024        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   1.300000   0.000000   1.300000  -468.316562  -0.004271  23.214286
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 04:13:33 AM
+ITERATION 9: Running linpack.gcc.opt3.bin, iteration num 9, loop count 
+18 September 2019 04:13:33 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1500
+  Leading matrix dimension LDA = 1501
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+       16.032024        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   1.310000   0.000000   1.310000  -464.741626  -0.004303  23.392857
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 04:13:34 AM
+ITERATION 10: Running linpack.gcc.opt3.bin, iteration num 10, loop count 
+18 September 2019 04:13:34 AM
+
+LINPACK_BENCH
+  C version
+
+  The LINPACK benchmark.
+  Language: C
+  Datatype: Double precision real
+  Matrix order N               = 1500
+  Leading matrix dimension LDA = 1501
+
+     Norm. Resid      Resid           MACHEP         X[1]          X[N]
+
+       16.032024        0.000000    2.220446e-16        1.000000        1.000000
+
+      Factor     Solve      Total     MFLOPS       Unit      Cray-Ratio
+
+   1.300000   0.010000   1.310000  -464.741626  -0.004303  23.392857
+
+LINPACK_BENCH
+  Normal end of execution.
+
+18 September 2019 04:13:35 AM

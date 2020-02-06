@@ -1,0 +1,15 @@
+Source,Compiler
+linpack,icc
+ 
+Optimization level,0
+name,%,cumulative_time,self_time,calls,self_calls,total_self_calls
+ 
+Optimization level,1
+name,%,cumulative_time,self_time,calls,self_calls,total_self_calls
+ 
+Optimization level,2
+name,%,cumulative_time,self_time,calls,self_calls,total_self_calls
+ 
+Optimization level,3
+name,%,cumulative_time,self_time,calls,self_calls,total_self_calls
+main,100.02,1.380909090909091,1.380909090909091,0.0,0.0,0.0

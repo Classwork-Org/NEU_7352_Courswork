@@ -1,0 +1,6 @@
+// Monday 09/09/19 at 10:40PM - 27 files in 0.14 secs
+
+## TODO (3)
+1. drystone/drystone.c:131   (1) Change the loop counter here by passing it as arg from argv (must cast string to long)
+2. drystone/gprofExplode:3   (2) pass all data with more accuracy depending on compiler to data folder
+3. drystone/gprofExplode:4   (2) Vary loop iterations after before running multiple times

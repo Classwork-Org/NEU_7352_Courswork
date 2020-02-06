@@ -1,0 +1,132 @@
+ITERATION 0: Running drystone.gcc.opt3.bin, iteration num 0, loop count 
+Dhrystone time for 500000000 passes = 24
+This machine benchmarks at 20689655 dhrystones/second
+ITERATION 1: Running drystone.gcc.opt3.bin, iteration num 1, loop count 
+Dhrystone time for 500000000 passes = 24
+This machine benchmarks at 20689655 dhrystones/second
+ITERATION 2: Running drystone.gcc.opt3.bin, iteration num 2, loop count 
+Dhrystone time for 500000000 passes = 24
+This machine benchmarks at 20604395 dhrystones/second
+ITERATION 3: Running drystone.gcc.opt3.bin, iteration num 3, loop count 
+Dhrystone time for 500000000 passes = 25
+This machine benchmarks at 19749835 dhrystones/second
+ITERATION 4: Running drystone.gcc.opt3.bin, iteration num 4, loop count 
+Dhrystone time for 500000000 passes = 22
+This machine benchmarks at 22058823 dhrystones/second
+ITERATION 5: Running drystone.gcc.opt3.bin, iteration num 5, loop count 
+Dhrystone time for 500000000 passes = 22
+This machine benchmarks at 22042615 dhrystones/second
+ITERATION 6: Running drystone.gcc.opt3.bin, iteration num 6, loop count 
+Dhrystone time for 500000000 passes = 24
+This machine benchmarks at 20533880 dhrystones/second
+ITERATION 7: Running drystone.gcc.opt3.bin, iteration num 7, loop count 
+Dhrystone time for 500000000 passes = 24
+This machine benchmarks at 20590253 dhrystones/second
+ITERATION 8: Running drystone.gcc.opt3.bin, iteration num 8, loop count 
+Dhrystone time for 500000000 passes = 24
+This machine benchmarks at 20562028 dhrystones/second
+ITERATION 9: Running drystone.gcc.opt3.bin, iteration num 9, loop count 
+Dhrystone time for 500000000 passes = 24
+This machine benchmarks at 20604395 dhrystones/second
+ITERATION 10: Running drystone.gcc.opt3.bin, iteration num 10, loop count 
+Dhrystone time for 500000000 passes = 24
+This machine benchmarks at 20562028 dhrystones/second
+ITERATION 11: Running drystone.gcc.opt2.bin, iteration num 0, loop count 
+Dhrystone time for 500000000 passes = 53
+This machine benchmarks at 9401441 dhrystones/second
+ITERATION 12: Running drystone.gcc.opt2.bin, iteration num 1, loop count 
+Dhrystone time for 500000000 passes = 46
+This machine benchmarks at 10714285 dhrystones/second
+ITERATION 13: Running drystone.gcc.opt2.bin, iteration num 2, loop count 
+Dhrystone time for 500000000 passes = 54
+This machine benchmarks at 9225092 dhrystones/second
+ITERATION 14: Running drystone.gcc.opt2.bin, iteration num 3, loop count 
+Dhrystone time for 500000000 passes = 54
+This machine benchmarks at 9242144 dhrystones/second
+ITERATION 15: Running drystone.gcc.opt2.bin, iteration num 4, loop count 
+Dhrystone time for 500000000 passes = 49
+This machine benchmarks at 10121457 dhrystones/second
+ITERATION 16: Running drystone.gcc.opt2.bin, iteration num 5, loop count 
+Dhrystone time for 500000000 passes = 54
+This machine benchmarks at 9247842 dhrystones/second
+ITERATION 17: Running drystone.gcc.opt2.bin, iteration num 6, loop count 
+Dhrystone time for 500000000 passes = 53
+This machine benchmarks at 9375000 dhrystones/second
+ITERATION 18: Running drystone.gcc.opt2.bin, iteration num 7, loop count 
+Dhrystone time for 500000000 passes = 51
+This machine benchmarks at 9800718 dhrystones/second
+ITERATION 19: Running drystone.gcc.opt2.bin, iteration num 8, loop count 
+Dhrystone time for 500000000 passes = 54
+This machine benchmarks at 9219422 dhrystones/second
+ITERATION 20: Running drystone.gcc.opt2.bin, iteration num 9, loop count 
+Dhrystone time for 500000000 passes = 53
+This machine benchmarks at 9270704 dhrystones/second
+ITERATION 21: Running drystone.gcc.opt2.bin, iteration num 10, loop count 
+Dhrystone time for 500000000 passes = 54
+This machine benchmarks at 9230769 dhrystones/second
+ITERATION 22: Running drystone.gcc.opt1.bin, iteration num 0, loop count 
+Dhrystone time for 500000000 passes = 73
+This machine benchmarks at 6813536 dhrystones/second
+ITERATION 23: Running drystone.gcc.opt1.bin, iteration num 1, loop count 
+Dhrystone time for 500000000 passes = 73
+This machine benchmarks at 6818181 dhrystones/second
+ITERATION 24: Running drystone.gcc.opt1.bin, iteration num 2, loop count 
+Dhrystone time for 500000000 passes = 73
+This machine benchmarks at 6811989 dhrystones/second
+ITERATION 25: Running drystone.gcc.opt1.bin, iteration num 3, loop count 
+Dhrystone time for 500000000 passes = 73
+This machine benchmarks at 6824385 dhrystones/second
+ITERATION 26: Running drystone.gcc.opt1.bin, iteration num 4, loop count 
+Dhrystone time for 500000000 passes = 73
+This machine benchmarks at 6829046 dhrystones/second
+ITERATION 27: Running drystone.gcc.opt1.bin, iteration num 5, loop count 
+Dhrystone time for 500000000 passes = 73
+This machine benchmarks at 6821282 dhrystones/second
+ITERATION 28: Running drystone.gcc.opt1.bin, iteration num 6, loop count 
+Dhrystone time for 500000000 passes = 78
+This machine benchmarks at 6330449 dhrystones/second
+ITERATION 29: Running drystone.gcc.opt1.bin, iteration num 7, loop count 
+Dhrystone time for 500000000 passes = 73
+This machine benchmarks at 6781193 dhrystones/second
+ITERATION 30: Running drystone.gcc.opt1.bin, iteration num 8, loop count 
+Dhrystone time for 500000000 passes = 73
+This machine benchmarks at 6785795 dhrystones/second
+ITERATION 31: Running drystone.gcc.opt1.bin, iteration num 9, loop count 
+Dhrystone time for 500000000 passes = 73
+This machine benchmarks at 6833712 dhrystones/second
+ITERATION 32: Running drystone.gcc.opt1.bin, iteration num 10, loop count 
+Dhrystone time for 500000000 passes = 73
+This machine benchmarks at 6802721 dhrystones/second
+ITERATION 33: Running drystone.gcc.opt0.bin, iteration num 0, loop count 
+Dhrystone time for 500000000 passes = 210
+This machine benchmarks at 2376425 dhrystones/second
+ITERATION 34: Running drystone.gcc.opt0.bin, iteration num 1, loop count 
+Dhrystone time for 500000000 passes = 225
+This machine benchmarks at 2218442 dhrystones/second
+ITERATION 35: Running drystone.gcc.opt0.bin, iteration num 2, loop count 
+Dhrystone time for 500000000 passes = 209
+This machine benchmarks at 2383222 dhrystones/second
+ITERATION 36: Running drystone.gcc.opt0.bin, iteration num 3, loop count 
+Dhrystone time for 500000000 passes = 210
+This machine benchmarks at 2379819 dhrystones/second
+ITERATION 37: Running drystone.gcc.opt0.bin, iteration num 4, loop count 
+Dhrystone time for 500000000 passes = 220
+This machine benchmarks at 2263809 dhrystones/second
+ITERATION 38: Running drystone.gcc.opt0.bin, iteration num 5, loop count 
+Dhrystone time for 500000000 passes = 218
+This machine benchmarks at 2285366 dhrystones/second
+ITERATION 39: Running drystone.gcc.opt0.bin, iteration num 6, loop count 
+Dhrystone time for 500000000 passes = 209
+This machine benchmarks at 2383600 dhrystones/second
+ITERATION 40: Running drystone.gcc.opt0.bin, iteration num 7, loop count 
+Dhrystone time for 500000000 passes = 205
+This machine benchmarks at 2437439 dhrystones/second
+ITERATION 41: Running drystone.gcc.opt0.bin, iteration num 8, loop count 
+Dhrystone time for 500000000 passes = 211
+This machine benchmarks at 2368919 dhrystones/second
+ITERATION 42: Running drystone.gcc.opt0.bin, iteration num 9, loop count 
+Dhrystone time for 500000000 passes = 209
+This machine benchmarks at 2386065 dhrystones/second
+ITERATION 43: Running drystone.gcc.opt0.bin, iteration num 10, loop count 
+Dhrystone time for 500000000 passes = 211
+This machine benchmarks at 2364625 dhrystones/second

@@ -1,0 +1,44 @@
+-O1 Optimize.  Optimizing compilation takes somewhat more time, and a lot more memory for a large
+           function.
+
+           With -O, the compiler tries to reduce code size and execution time, without performing any
+           optimizations that take a great deal of compilation time.
+
+    -O turns on the following optimization flags:
+
+           -fauto-inc-dec -fbranch-count-reg -fcombine-stack-adjustments -fcompare-elim -fcprop-registers
+           -fdce -fdefer-pop -fdelayed-branch -fdse -fforward-propagate -fguess-branch-probability
+           -fif-conversion2 -fif-conversion -finline-functions-called-once -fipa-pure-const -fipa-profile
+           -fipa-reference -fmerge-constants -fmove-loop-invariants -fshrink-wrap -fsplit-wide-types
+           -ftree-bit-ccp -ftree-ccp -fssa-phiopt -ftree-ch -ftree-copy-prop -ftree-copyrename -ftree-dce
+           -ftree-dominator-opts -ftree-dse -ftree-forwprop -ftree-fre -ftree-phiprop -ftree-sink -ftree-slsr
+           -ftree-sra -ftree-pta -ftree-ter -funit-at-a-time
+
+    -O also turns on -fomit-frame-pointer on machines where doing so does not interfere with
+           debugging.
+
+-O2 Optimize even more.  GCC performs nearly all supported optimizations that do not involve a space-
+           speed tradeoff.  As compared to -O, this option increases both compilation time and the
+           performance of the generated code.
+
+    -O2 turns on all optimization flags specified by -O.  It also turns on the following optimization
+           flags: -fthread-jumps -falign-functions  -falign-jumps -falign-loops  -falign-labels
+           -fcaller-saves -fcrossjumping -fcse-follow-jumps  -fcse-skip-blocks -fdelete-null-pointer-checks
+           -fdevirtualize -fdevirtualize-speculatively -fexpensive-optimizations -fgcse  -fgcse-lm
+           -fhoist-adjacent-loads -finline-small-functions -findirect-inlining -fipa-cp -fipa-cp-alignment
+           -fipa-sra -fipa-icf -fisolate-erroneous-paths-dereference -flra-remat -foptimize-sibling-calls
+           -foptimize-strlen -fpartial-inlining -fpeephole2 -freorder-blocks -freorder-blocks-and-partition
+           -freorder-functions -frerun-cse-after-loop -fsched-interblock  -fsched-spec -fschedule-insns
+           -fschedule-insns2 -fstrict-aliasing -fstrict-overflow -ftree-builtin-call-dce
+           -ftree-switch-conversion -ftree-tail-merge -ftree-pre -ftree-vrp -fipa-ra
+
+           Please note the warning under -fgcse about invoking -O2 on programs that use computed gotos.
+
+           NOTE: In Ubuntu 8.10 and later versions, -D_FORTIFY_SOURCE=2 is set by default, and is activated
+           when -O is set to 2 or higher.  This enables additional compile-time and run-time checks for
+           several libc functions.  To disable, specify either -U_FORTIFY_SOURCE or -D_FORTIFY_SOURCE=0.
+
+-O3 Optimize yet more.  -O3 turns on all optimizations specified by -O2 and also turns on the
+           -finline-functions, -funswitch-loops, -fpredictive-commoning, -fgcse-after-reload,
+           -ftree-loop-vectorize, -ftree-loop-distribute-patterns, -ftree-slp-vectorize, -fvect-cost-model,
+           -ftree-partial-pre and -fipa-cp-clone options.
